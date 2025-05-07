@@ -79,7 +79,7 @@ SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
 1. Clone the repository:
    ```bash
    git clone https://github.com/aryan-s-ingh/EcommerceAIBot
-   cd markopolo_ai_task
+   cd EcommerceAIBot
    ```
 
 2. Install dependencies:
