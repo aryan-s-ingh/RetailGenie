@@ -209,9 +209,6 @@ The project is configured for static exports, making it easy to deploy to variou
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 ### Key Fixes:
